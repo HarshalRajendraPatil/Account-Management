@@ -6,3 +6,4 @@ You can even create your new account and set your own pin and account number.
 It even contains recipt option if you withdraw or deposit the money in your account.
 This all is just for temprary. 
 If you close the program and re run it, your newly set account will be deleted.
+Remember its for kids so the salary cannot be more than Rs.10000.
